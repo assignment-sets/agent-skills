@@ -8,6 +8,7 @@
 | :--- | :--- | :--- |
 | [**`bulk-commit-clustering`**](./bulk-commit-clustering) | Groups and batches uncommitted working tree changes into clean, atomic commits with user approval. | `npx skills add assignment-sets/agent-skills --skill bulk-commit-clustering` |
 | [**`openapi-contract-fetcher`**](./openapi-contract-fetcher) | Fetches clean REST endpoint contracts and compact DSL schemas directly from OpenAPI/Swagger docs. | `npx skills add assignment-sets/agent-skills --skill openapi-contract-fetcher` |
+| [**`personal-blog-writer`**](./personal-blog-writer) | Turns raw notes, chat logs, and unstructured material into clean, first-person developer blog posts in the author's authentic voice. | `npx skills add assignment-sets/agent-skills --skill personal-blog-writer` |
 | [**`plain-talk`**](./plain-talk) | Delivers direct, candid, informal explanations with grounded real-world analogies and zero corporate fluff. | `npx skills add assignment-sets/agent-skills --skill plain-talk` |
 
 ---
